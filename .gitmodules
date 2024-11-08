@@ -17,6 +17,9 @@
 [submodule "roadnetdb"]
 	path = roadnetdb
 	url = https://github.com/NONONOexe/roadnetdb
+[submodule "rrstools"]
+	path = rrstools
+	url = https://github.com/NONONOexe/rrstools
 [submodule "setariaviridis"]
 	path = setariaviridis
 	url = https://github.com/NONONOexe/setariaviridis
